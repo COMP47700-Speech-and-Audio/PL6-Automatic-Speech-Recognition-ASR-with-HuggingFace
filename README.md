@@ -23,4 +23,4 @@ This practical tutorial builds on the following core topics:
 This practical tutorial contains different sections:
 * **Live coding:** Basic theory, demos and coding examples presented by the lecturer on site (unmarked)
 * **Student activity:** Familiarisation and coding exercises to be completed by the students and followed by a short discussion on site (unmarked). These activites introduce key concepts and skills necessary to complete the assignments.
-* **Assignment:** Three (3) take home problem/coding questions to be completed by the students and due in two (2) weeks from the day the practical tutorial is given. Assignment questions represent fifteen (15) mark points.
+* **Assignment:** Three (3) take home problem/coding questions to be completed by the students and due in two (2) weeks from the day the practical tutorial is given.
